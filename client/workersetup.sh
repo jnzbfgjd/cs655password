@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo apt update
+sudo apt install python3-pip
 
 sudo pip3 install hashlib
 sudo pip3 install socket
